@@ -1,4 +1,4 @@
-This repository contains the following programs related to Binary Trees : 
+This repository contains the following programs related to Binary Trees in C++ : 
 
 1. BinaryTreeNode Class
 2. Print Level WIse
